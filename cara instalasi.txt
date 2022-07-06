@@ -1,0 +1,8 @@
+
+Cara Install
+
+1. Impor databse db-rektor.sql terlebih dahulu
+2. masuk cmd, arahkan direktori kedalam folder ini
+3. jalankan command: 	- composer install
+			- npm install
+			
